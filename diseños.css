@@ -1,0 +1,27 @@
+/*class *= 'col']{
+  padding: 1rem;
+  background-color:red;
+  border: 2px solid yellow; 
+  color: white;
+}
+/*Codigo para imagen de fondo*/
+/*body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}*/
+.borde {
+  border: 2px solid lightgray;
+}
+.fondoinput {
+  background-color: lightblue;
+}
